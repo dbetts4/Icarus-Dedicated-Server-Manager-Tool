@@ -1,3 +1,5 @@
+Edit: Source code has been added to the download. It is not required for the app to run.
+
 I am happy to present this Icarus Dedicated Server Management Tool that I have built on the architecture of my previous tool IcarusDS v2.0 but turning it into a fully functional app on Windows with a tonne of features that I will go over in the guide. This app continues to use the SteamCMD platform with the addition of python to create a very user friendly interface. No major actions are required to upgrade to this app if you are coming from any of my previous guides or are already using the SteamCMD platform.
 
 Background
